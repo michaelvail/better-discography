@@ -1,0 +1,14 @@
+{
+  "name": "Better Discography",
+  "description": "Better Discography is a Spicetify extension that improves Spotify's artist discography pages by adding a more detailed filter for release types.",
+  "version": "1.0.0",
+  "author": "michaelvail",
+  "main": "better-discography.js",
+  "preview": "preview.png",
+  "tags": ["discography", "filter", "ui", "artist", "spicetify", "spotify", "extension", 
+    "better discography", "spotify discography", "spotify filter", "spotify artist page", 
+    "singles", "eps", "albums", "compilations", "spotify ui", "spotify extension"],
+  "spicetify": {
+    "extensions": ["better-discography.js"]
+  }
+}
