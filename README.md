@@ -40,3 +40,7 @@ Better Discography is a Spicetify extension that improves Spotify’s artist dis
 ## Updating
 
 Replace the old `better-discography.js` with the new one, then run `spicetify apply`.
+
+---
+
+### If this project was valuable to you, please feel free to [fund](https://ko-fi.com/michaelvail) my matcha addiction.
