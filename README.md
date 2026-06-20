@@ -2,7 +2,7 @@
 
 Better Discography is a Spicetify extension that improves Spotify’s artist discography pages by adding a more detailed filter for release types.
 
-![preview](preview.png)
+![preview](preview-long.png)
 
 ## Features
 
