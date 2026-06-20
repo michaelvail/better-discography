@@ -5,9 +5,7 @@
   "author": "michaelvail",
   "main": "better-discography.js",
   "preview": "preview.png",
-  "tags": ["discography", "filter", "ui", "artist", "spicetify", "spotify", "extension", 
-    "better discography", "spotify discography", "spotify filter", "spotify artist page", 
-    "singles", "eps", "albums", "compilations", "spotify ui", "spotify extension"],
+  "tags": ["spicetify-extensions", "discography", "filter", "ui", "artist", "better discography", "artist page", "singles", "eps", "albums", "compilations"],
   "spicetify": {
     "extensions": ["better-discography.js"]
   }
