@@ -7,10 +7,12 @@ Better Discography is a Spicetify extension that improves Spotify’s artist dis
 ## Features
 
 - **Filters discography by any desired combination of release types** including separation of singles and EPs (finally).
+
   - Compilations
   - Albums
   - EPs
   - Singles
+  
 - **Supports both list and grid view.**
 - **This is a VISUAL-ONLY filter.** Playback is unaffected, so excluded releases will still appear in the queue.
 - **Filters are saved to current session.** Your active filters will apply to all artist pages and only auto-reset when you restart the app.
