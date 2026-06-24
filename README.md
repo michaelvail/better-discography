@@ -47,4 +47,4 @@ Replace the old `better-discography.js` with the new one, then run `spicetify ap
 
 ---
 
-### If this project was valuable to you, please feel free to [fund](https://ko-fi.com/michaelvail) my matcha addiction.
+### If this project was valuable to you, please feel free to [fund](https://ko-fi.com/michaelvail) my matcha addiction 🍵
