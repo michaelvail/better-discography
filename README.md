@@ -47,4 +47,6 @@ Replace the old `better-discography.js` with the new one, then run `spicetify ap
 
 ---
 
+Liked this extension? You may also enjoy the [UI Enhancer](https://github.com/michaelvail/genius-ui-enhancer) for genius.com.
+
 ### If this project was valuable to you, please feel free to [fund](https://ko-fi.com/michaelvail) my matcha addiction 🍵
